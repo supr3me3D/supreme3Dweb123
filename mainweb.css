@@ -15,7 +15,7 @@ a:hover{ color: rgb(228, 228, 228);}
     font-family: Montserrat;
 }
 .logo{
-    font-size: 200%;
+    font-size: 30px;
     color: rgb(255, 255, 255);
     font-weight: 900;
 }
@@ -103,7 +103,7 @@ color: white;
     font-weight: 900;
 }
 .request-quote{
-    font-size: 125%;
+    font-size: 18px;
     font-weight: 900;
 }
 .servdiscription{
