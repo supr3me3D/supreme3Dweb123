@@ -18,6 +18,7 @@ a:hover{ color: rgb(228, 228, 228);}
     font-size: 30px;
     color: rgb(255, 255, 255);
     font-weight: 900;
+    flex-shrink: 3;
 }
 .top-navbar{
   background-color: black; font-family: Montserrat; padding: 20px; width: auto;
@@ -105,6 +106,7 @@ color: white;
 .request-quote{
     font-size: 18px;
     font-weight: 900;
+    flex-shrink: 3;
 }
 .servdiscription{
     font-family: 'Montserrat', sans-serif;
